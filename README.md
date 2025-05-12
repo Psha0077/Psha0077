@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
+Data isn't just numbers to me, it's a story waiting to be told! I'm passionate about exploring datasets, uncovering hidden patterns, and transforming raw information into actionable insights. The power of data to drive informed decisions truly fascinates me, and I'm constantly seeking opportunities to leverage analytical skills to solve real-world problems and contribute to strategic growth.
 
-<!--
-**Psha0077/Psha0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently exploring the exciting world of advanced visualization techniques and  machine learning for business intelligence.
 
-Here are some ideas to get you started:
+Keen to connect with fellow data enthusiasts and collaborate on interesting projects! Feel free to reach out if you're working on something data-driven.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+e-mail - pranav.shankaran@gmail.com
+LinkedIn - https://www.linkedin.com/in/pranav-shankaran-analyst/
+
+Let's unlock the stories within the data together!👋
+
+
